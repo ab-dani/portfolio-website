@@ -10,7 +10,7 @@ This is my portfolio website antoniodani.co
 
 
 ## Goals
-- I want to work somewhere I can grow but be properly compensated. 
+- I want to work somewhere I can grow. 
 - Improve my portfolio and be proud of it. 
 
 
