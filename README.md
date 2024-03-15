@@ -4,21 +4,14 @@
 ![!\[alt text\](image.jpg)](wireframeforportfoliowebsite.jpg)
 ## About
 
-This is a website about..
+My name is Antonio Brown Jr. I am from Nashville,TN. I have a Bachelor's Degree in Graphic Design and working on my certificate with CodeX Academy. 
 
-In contains three pages:
+## Some Things About Me
 
-* The Home page at index.html
-* The ____ page at _____.html
-* The ____ page at _____.html
-
-It will contain a variety of HTML tags and content to describe the topic.
-
-The tags will include headers, paragraph, lists, images, anchors, and tables.
-
-## Built With
-
-- HTML
+- I am a football addict (NFL and NCAA). 
+- I play Madden and 2K franchise mode only. (Hoping to switch to PC.)
+- I day trade personally and want to provide a second income for myself and for the ones around me. 
+- 
 
 ## Roadmap
 
