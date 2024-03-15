@@ -19,7 +19,7 @@ This is my portfolio website antoniodani.co
 - I am a football addict (NFL and NCAA). 
 - I play Madden and 2K (franchise mode only), (Wanting to switch to PC. On Xbox Currently), Third Person Shooters such as Syphon Filter and Smash Bros.
 
-- I invest personally and want to provide a second income for myself and for the ones around me. 
+- I invest personally and want to provide a second income for myself. 
 - I watch sports news when I am bored. (Mostly The Herd). 
 - I want to visit Brazil because of the movie Rio. 
 
